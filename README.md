@@ -93,8 +93,6 @@ Project Lead: Aryan
 
 Mentors & Faculty: 4i Labs Faculty Advisors
 
-🏆 Achievements
-RIC 2025: Abstract prepared/submitted for the Robotics & Intelligent Control conference.
 
 
 Field Deployment: Successfully moved from concept to field deployment in under 4 months.
